@@ -4,6 +4,9 @@
 
 In an era where data-driven decision-making is paramount, understanding the intricacies of accidents and their underlying factors in Washington, a state renowned for its diverse landscapes and bustling urban centers, presents a unique canvas for the study of accidents. This project embarks on a journey of Exploratory Data Analysis (EDA) to unveil hidden patterns, trends, and insights concealed within the vast tapestry of accidents occurring in Washington. By dissecting accident data and employing data visualization, statistical analysis, and machine learning techniques, we aim to not only identify areas requiring immediate attention but also contribute to the formulation of data-informed strategies for accident prevention and mitigation, ultimately making Washington's roads safer for everyone and transforming our transportation landscape.
 
+
+Link to the google colab: https://colab.research.google.com/drive/1Tn_RcCgV0pTdj9DSSvxUmwm0QIxPK7RG?usp=sharing
+
 ## Business Objective:
 The primary business objective of this CRISP-DM project is to enhance road safety and reduce the frequency and severity of accidents in Washington state. Given the ongoing evolution of transportation technology, such as autonomous vehicles, and the changing travel patterns brought about by global events like the COVID-19 pandemic, it is crucial to assess the current situation comprehensively. The COVID-19 pandemic has significantly altered traffic patterns, with fluctuations in congestion and changes in commuting habits. Furthermore, the adoption of new technologies and shifts in transportation behaviors may have influenced accident dynamics. By leveraging CRISP-DM, we aim to systematically evaluate the impact of these evolving factors on road safety, identify emerging patterns, and develop strategies that adapt to the changing landscape to fulfill our overarching business goal of fostering safer roads in Washington.
 
@@ -46,3 +49,10 @@ Initial data collection report - Used data set for accidents in the state of Was
 ![DayWeek](https://github.com/Lina-Maatouk/AccidentsWA/assets/118494394/5bc3d9f1-061a-4ec6-9d57-b9819b3604df)
 
 ![HourFriday](https://github.com/Lina-Maatouk/AccidentsWA/assets/118494394/d5cb2243-03e6-47e9-aa98-badd136018ae)
+
+
+
+
+
+
+
